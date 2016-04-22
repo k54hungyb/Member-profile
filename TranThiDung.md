@@ -4,11 +4,11 @@
 
 ### *Contents*
 
-    1. Brief info
-    2. Contacts
-    3. Education
-    4. Programming
-    5. Softskills
+    * [1. Brief info] (#b)
+    * [2. Contacts] (#b)
+    * [3. Education] (#b)
+    * [4. Programming] (#b)
+    * [5. Softskills] (#b)
 --
 ##BRIEF
 <img src = "http://i.imgur.com/hamvivf.jpg?1">

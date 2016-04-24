@@ -16,7 +16,7 @@
 
 <img src = "https://scontent-hkg3-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/12006119_1632208563726102_6785485188274308306_n.jpg?oh=20dfcf7895669696fa76a1588876e011&oe=57AC2B9B" weight = "150px" height = "150">
 
-* **Full name:** Nguy?n Khánh Hung
+* **Full name:** Nguyen Khanh Hung
 * **Birthday:** 25/7/1996
 * **Home town:** Yen Binh, Yen Bai, Viet Nam
 

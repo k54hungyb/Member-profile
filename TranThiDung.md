@@ -11,19 +11,20 @@
 	- [4. Programming](#pro)
 	- [5. Softskills](#softskills)
 
---
+====
 ##BRIEF
 <a name="brief"></a>
 <img src = "http://i.imgur.com/hamvivf.jpg?1">
-
-* Fullname  : Tran Thi Dung
-* Hometown  : Vinh-Nghe An province.
-
+<ul>
+	<li>* Fullname  : Tran Thi Dung
+	<li>* Hometown  : Vinh-Nghe An province.
+</ul>
 ##CONTACTS
 <a name="contacts"></a>
-* Phone number  : 0868900925
-* EMai          : dungtran2196@gmail.com
-* Address       : Tran Quoc Hoan_Cau Giay_Ha Noi.
+<ul>
+	<li>* Phone number  : 0868900925
+	<li>* EMai          : dungtran2196@gmail.com
+	<li>* Address       : Tran Quoc Hoan_Cau Giay_Ha Noi.
 
 ##EDUCATION
 <a name="education"></a>
@@ -32,15 +33,19 @@
 
 ##PROGRAMMING
 <a name ="programming"></a>
-* Language programs : C, C++, php.
-* Level             : Basic
-* Products          : Something
+<ul>
+	<li>* Language programs : C, C++, php.</li>
+	<li>* Level             : Basic</li>
+	<li>* Products          : Something</li>
+</ul>
 
 ##SOFTSKILLS
 
 <a name ="softskills"></a>
-* Teamwork
-* English.
+<ul>
+	<li>* Teamwork</li>
+	<li>* English.</li>
+</ul>
 [ :arrow_up: Head page](#top)
 
 
